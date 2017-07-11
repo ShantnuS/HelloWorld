@@ -9,6 +9,8 @@ A collection of "Hello Worlds" in different languages
 * OCaml
 * Android (Java)
 * Javascript
+* HTML
+* C++
   
   
   
