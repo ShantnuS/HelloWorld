@@ -7,7 +7,6 @@ A collection of "Hello Worlds" in different languages
 * Scheme
 * C
 * OCaml
-* Android (Java)
 * Javascript
 * HTML
 * C++
